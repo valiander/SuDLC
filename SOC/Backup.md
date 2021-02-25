@@ -62,19 +62,8 @@ The CISO / designated personnel is responsible for proper implementation of the 
 
 Policy Information
 ------------------
-
-|
-
-Effective Date
-
- |  |
-|
-
-Policy Owner
-
- |  |
-|
-
-Policy Administrator
-
- |  |
+| Category | Description |
+| ----------- | ----------- |
+| Effective Date | Date |
+| Policy Owner | Person |
+| Policy Administrator | Person |

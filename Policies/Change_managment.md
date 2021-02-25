@@ -365,3 +365,11 @@ change and where it will be logged.
     -   Communication Plan
 
     -   Deployment Plan, including back-out contingencies
+
+Policy Information
+------------------
+| Category | Description |
+| ----------- | ----------- |
+| Effective Date | Date |
+| Policy Owner | Person |
+| Policy Administrator | Person |

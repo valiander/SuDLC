@@ -29,3 +29,11 @@ Commitment, roles and responsibilities
 ### Roles and responsibilities
 
 The roles and responsibilities for executing this policy include the following:- The executive committee is responsible for approving asset management policy, articulating organizational values, defining priorities, approving funding and resources to implement the asset management policy and associated requirements, and approving asset funding through multi-year and long-range financial plans.- The chief reliability officer is responsible for leading the implementation of this policy across the organization.- Departmental managers are responsible for leading the adoption of this policy within their departments and allocating appropriate resources to its implementation.- All staff involved in the application of asset management are responsible for observing the requirements of this policy.
+
+Policy Information
+------------------
+| Category | Description |
+| ----------- | ----------- |
+| Effective Date | Date |
+| Policy Owner | Person |
+| Policy Administrator | Person |

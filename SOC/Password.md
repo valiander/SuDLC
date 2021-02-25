@@ -68,7 +68,10 @@ Exceptions
 
 Any exception to the policy must be approved by the Infosec Team in advance.
 
-Non-Compliance
---------------
-
-An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+Policy Information
+------------------
+| Category | Description |
+| ----------- | ----------- |
+| Effective Date | Date |
+| Policy Owner | Person |
+| Policy Administrator | Person |
