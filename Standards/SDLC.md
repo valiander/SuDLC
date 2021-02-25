@@ -162,7 +162,7 @@ Once the Data Impact is completed (this may be just letting the Data team know a
 
 ### In Progress
 
-1.  Create your feature branch following guidelines here: [Branches, Commits, and Merge Requests](https://edquity.atlassian.net/wiki/spaces/IN/pages/786006024/Branches%2C+Commits%2C+and+Merge+Requests)
+1.  Create your feature branch following guidelines here: [Branches, Commits, and Merge Requests](https://<Your Company>.atlassian.net/wiki/spaces/IN/pages/786006024/Branches%2C+Commits%2C+and+Merge+Requests)
 
 2.  Complete your development
 
