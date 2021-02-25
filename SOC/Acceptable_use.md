@@ -142,3 +142,9 @@ Any exception to the policy must be approved by the Infosec team in advance.
 
 An employee found to have violated this policy may be subject to disciplinary action, up to and\
 including termination of employment.
+
+Policy Information
+------------------
+| Effective Date | Date |
+| Policy Owner | Person |
+| Policy Administrator | Person |
