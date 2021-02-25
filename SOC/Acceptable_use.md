@@ -145,6 +145,8 @@ including termination of employment.
 
 Policy Information
 ------------------
+| Category | Description |
+| ----------- | ----------- |
 | Effective Date | Date |
 | Policy Owner | Person |
 | Policy Administrator | Person |
